@@ -1,2 +1,2 @@
 # Project---The-Ranking
-![](./input/GitHubApi.gif)
+![](./input/GitHubApi.pdf)
